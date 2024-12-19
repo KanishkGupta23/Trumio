@@ -1,0 +1,10 @@
+.scrape-card{
+    background: linear-gradient(145deg, #1e3850, #223d56);
+    padding: 25px;
+    border-radius: 15px;
+    margin: 45px auto;
+    width: 70%;
+    box-shadow: 0 8px 15px rgba(0, 0, 0, 0.3);
+    transition: transform 0.3s ease, box-shadow 0.3s ease;
+    color: #ffffff;
+}
